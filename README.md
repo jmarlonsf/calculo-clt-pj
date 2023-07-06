@@ -16,7 +16,7 @@ Este projeto tem como objetivo calcular os valores oferecidos entre o regime de 
 4. Informe a quantidade de meses a serem considerados:
    - Insira o número de meses que serão utilizados no cálculo, levando em conta férias e benefícios proporcionais. É possível considerar 12 meses ou menos, dependendo do caso.
 
-5. Informe a porcentagem estimada para a PPR (Participação nos Lucros e Resultados):
+5. Informe a multiplicação estimada para a PPR (Participação nos Lucros e Resultados):
    - Digite a porcentagem estimada para o cálculo da PPR. Por exemplo, se a estimativa é de 3.2, insira esse valor.
 
 ## Testes Online
