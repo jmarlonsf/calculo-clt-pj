@@ -74,7 +74,7 @@ class CLT:
         return self.calcular_base(salario)
 
     def calcular_prr(self):
-        salario = self.salario_bruto * self.percent_ppr
+        salario = ((self.salario_bruto * self.meses_trabalhado) / 12) * self.percent_ppr
         irrf = self._calcular_irrf(salario_bruto=salario)
         salario = salario - irrf
         return salario, irrf
